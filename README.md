@@ -12,13 +12,6 @@ Faço parte das comunidades **@WCC** e **@MFP** 💜
 
 ---
 
-## 🏠 Comunidades
-
-[![WCC](https://img.shields.io/badge/@WCC-7F77DD?style=flat&logoColor=white)](https://wcc-ufcg.github.io/eventos/)
-[![MFP](https://img.shields.io/badge/@MFP-7F77DD?style=flat&logoColor=white)](https://mfp.ic.unicamp.br/)
-
----
-
 ## 🛠️ Tecnologias & ferramentas
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
