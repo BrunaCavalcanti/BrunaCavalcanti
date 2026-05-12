@@ -1,7 +1,7 @@
 # 👩‍💻 Olá, eu sou a Bruna! 👋
 > *"O trabalho duro vence o talento quando o talento não trabalha duro." — Tim Notke*
 
-Estudante de Ciência da Computação no 4º período, por criar interfaces bonitas e funcionais. Estou construindo minha jornada no front-end com HTML, CSS e JavaScript, explorando o universo do React. Meu foco atual é desenvolver projetos reais para o meu portfólio e crescer como desenvolvedora. Atualmente em busca de oportunidades para crescer e colaborar em projetos reais.
+Estudante de Ciência da Computação no 4º período, apaixonada por criar interfaces bonitas e funcionais. Estou construindo minha carreira no front-end com HTML, CSS e JavaScript, com um pouco do universo de React. Meu foco atual é desenvolver projetos reais para o meu portfólio e crescer como desenvolvedora. Atualmente em busca de oportunidades para crescer e colaborar em projetos reais.
 
 Faço parte das comunidades: </br>
 **@WCC: https://wcc-ufcg.github.io/eventos/** </br>
